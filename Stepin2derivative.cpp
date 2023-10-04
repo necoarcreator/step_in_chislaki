@@ -25,6 +25,10 @@ int main()
     for (int i = 0; i < N + 1; i++)
     {
         x[i] = (double(i) * (b - a) / double(N)) + a;
+    }
+
+    for (int i = 0; i < N + 1; i++)
+    {
         if (i != N)
         {
             std::cout << computate_right(x, i) << std::endl;
