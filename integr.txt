@@ -1,4 +1,0 @@
-0.203876/It is left
-0.203376/It is right
-0.203626/It is Trap
-0.202542/It is Simps
